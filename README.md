@@ -1,4 +1,4 @@
-# Hey, I'm Evelyn aka GhostPacket 👋
+# Ciao, I'm GhostPacket
 
 ```text
 ┌─[GhostPacket@github]─[~/ctf]
@@ -20,11 +20,7 @@ I enjoy solving challenging problems, building useful software, and exploring ho
 
 ## 🚀 Current Focus
 
-- Playing CTFs
-- Learning reverse engineering & binary exploitation
-- Competitive programming
-- Building small web applications
-- Formula 1 data & side projects
+Playing CTFs
 
 ---
 
@@ -37,7 +33,6 @@ I enjoy solving challenging problems, building useful software, and exploring ho
 - HTML / CSS
 
 **Tools**
-- Git & GitHub
 - Linux
 - VS Code
 - lots more of cybersecurity tools
@@ -45,7 +40,7 @@ I enjoy solving challenging problems, building useful software, and exploring ho
 
 ## 📈 Currently Learning
 
-- Reverse Engineering
+- cryptography
 - forensics
 - Linux
 - Web Security
