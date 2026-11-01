@@ -36,6 +36,7 @@ Playing CTFs
 - Linux
 - VS Code
 - lots more of cybersecurity tools
+
 ---
 
 ## 📈 Currently Learning
@@ -44,8 +45,9 @@ Playing CTFs
 - forensics
 - Linux
 - Web Security
-  
+
 ---
 
 ## 📫 Contact
 - 📧 asyncbyevelyn@gmail.com
+- [Medium](https://medium.com/@inthepondddd)
